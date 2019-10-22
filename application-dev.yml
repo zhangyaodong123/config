@@ -41,3 +41,8 @@ management:
     web:
       exposure:
         include: "*"
+
+name: bob
+age: 26
+password: 333333
+
